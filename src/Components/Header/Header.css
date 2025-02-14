@@ -1,0 +1,94 @@
+.header{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+
+.home-image{
+    position: relative;
+    width: max(80vh,100%);
+}
+
+.left-part{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    bottom: 160px;
+    left: 200px;
+    font-family: roberto;
+    animation: fadeIn 3s;
+    gap: 15px;
+}
+
+.line-1{
+    font-size: max(5.5vh, 30px);
+    font-weight: 800;
+    width: 600px;
+    color: #d8913a;
+    text-align: center;
+    margin-left: -40px;
+    padding-bottom: 20px;
+    text-shadow: 1px 1px 0px #808080;
+}
+
+.left-part hr{
+    border-width: 0;
+    width: 130px;
+    text-align: center;
+    margin-left: 166px;
+    background-color: #ffffff;
+    height: 2px;
+    border-radius: 10px;
+}
+
+.name{
+    text-align: center;
+    font-size: max(6vh,35px);
+    font-weight: 800;
+    margin-top: 10px;
+    margin-left: -30px;
+    color: #d8913a;
+    text-shadow: 1px 1px 0px #808080;
+}
+
+.slogan{
+    text-align: center;
+    font-size: max(5vh,25px);
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: -30px;
+    color: #d8913a;
+    text-shadow: 1px 1px 0px #808080;
+}
+
+.promise{
+    text-align: center;
+    font-size: max(4vh,15px);
+    font-weight: 200;
+    margin-top: 10px;
+    margin-left: -30px;
+    color: #d8913a;
+    text-shadow: 1px 1px 0px #808080;
+}
+
+.left-part button{
+    border: none;
+    width: 100px;
+    color: #d8913a;
+    font-weight: 500;
+    padding: 10px;
+    background-color: white;
+    font-size: max(1vw, 13px);
+    border-radius: 50px;
+    margin-top: 20px;
+    align-self: center;
+    box-shadow: 1px 1px 0px #808080;
+    cursor: pointer;
+}
+
+.left-part button:hover{
+    background-color: #c57009;
+    color: white;
+    transition: 1.3s;
+    box-shadow:3px 3px 0px #808080;
+}

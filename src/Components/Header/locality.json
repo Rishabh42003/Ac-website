@@ -1,0 +1,638 @@
+[
+    {
+        "locality":"Aarey Milk Colony"
+    },
+    {
+        "locality":"Aarey Road"
+    },
+    {
+        "locality":"Agripada"
+    },
+    {
+        "locality":"Altamount Road"
+    },
+    {
+        "locality":"Amboli"
+    },
+    {
+        "locality":"Andheri East"
+    },
+    {
+        "locality":"Andheri West"
+    },
+    {
+        "locality":"Andheri-Kurla Road"
+    },
+    {
+        "locality":"Antop Hill"
+    },
+    {
+        "locality":"Anushakti Nagar"
+    },
+    {
+        "locality":"Ballard Estate"
+    },
+    {
+        "locality":"Bandra East"
+    },
+    {
+        "locality":"Bandra-Kurla Complex"
+    },
+    {
+        "locality":"Bandra West"
+    },
+    {
+        "locality":"Bangur Nagar"
+    },
+    {
+        "locality":"Barve Nagar"
+    },
+    {
+        "locality":"Behram Baug"
+    },
+    {
+        "locality":"Beverly Park"
+    },
+    {
+        "locality":"Bhandup East"
+    },
+    {
+        "locality":"Bhandup West"
+    },
+    {
+        "locality":"Bhayander"
+    },
+    {
+        "locality":"Bhuleshwar"
+    },
+    {
+        "locality":"Borivali East"
+    },
+    {
+        "locality":"Borivali West"
+    },
+    {
+        "locality":"Breach Candy"
+    },
+    {
+        "locality":"Byculla"
+    },
+    {
+        "locality":"C.P. Tank"
+    },
+    {
+        "locality":"Carter Road"
+    },
+    {
+        "locality":"Chakala"
+    },
+    {
+        "locality":"Chandivali"
+    },
+    {
+        "locality":"Charkop"
+    },
+    {
+        "locality":"Charni Road"
+    },
+    {
+        "locality":"Chedda Nagar"
+    },
+    {
+        "locality":"Chembur"
+    },
+    {
+        "locality":"Chembur Colony"
+    },
+    {
+        "locality":"Chikuwadi"
+    },
+    {
+        "locality":"Chinch Bunder"
+    },
+    {
+        "locality":"Chinchpada"
+    },
+    {
+        "locality":"Chinchpokli"
+    },
+    {
+        "locality":"Chira Bazar"
+    },
+    {
+        "locality":"Chuna Bhatti"
+    },
+    {
+        "locality":"Chunabhatti"
+    },
+    {
+        "locality":"Churchgate"
+    },
+    {
+        "locality":"Colaba"
+    },
+    {
+        "locality":"Cotton Green"
+    },
+    {
+        "locality":"Crawford Market"
+    },
+    {
+        "locality":"Cuffe Parade"
+    },
+    {
+        "locality":"Cumbala Hill"
+    },
+    {
+        "locality":"Currey Road"
+    },
+    {
+        "locality":"Curry Road"
+    },
+    {
+        "locality":"Dadar East"
+    },
+    {
+        "locality":"Dadar west"
+    },
+    {
+        "locality":"Dahisar East"
+    },
+    {
+        "locality":"Dahisar West"
+    },
+    {
+        "locality":"Deonar"
+    },
+    {
+        "locality":"Dharavi"
+    },
+    {
+        "locality":"Dindoshi"
+    },
+    {
+        "locality":"Dockyard Road"
+    },
+    {
+        "locality":"Dongri"
+    },
+    {
+        "locality":"Elphinstone"
+    },
+    {
+        "locality":"Evershine Nagar"
+    },
+    {
+        "locality":"Fort"
+    },
+    {
+        "locality":"G. T. B. Nagar"
+    },
+    {
+        "locality":"Gamdevi"
+    },
+    {
+        "locality":"Gandhi Nagar"
+    },
+    {
+        "locality":"Ghatkopar East"
+    },
+    {
+        "locality":"Ghatkopar West"
+    },
+    {
+        "locality":"Girgaon"
+    },
+    {
+        "locality":"Gokuldam"
+    },
+    {
+        "locality":"Golibar"
+    },
+    {
+        "locality":"Gorai"
+    },
+    {
+        "locality":"Goregaon East"
+    },
+    {
+        "locality":"Goregaon West"
+    },
+    {
+        "locality":"Govandi"
+    },
+    {
+        "locality":"Govind Nagar"
+    },
+    {
+        "locality":"Grant Road East"
+    },
+    {
+        "locality":"Grant Road West"
+    },
+    {
+        "locality":"Gulmohar Road"
+    },
+    {
+        "locality":"Haji Ali"
+    },
+    {
+        "locality":"IC Colony"
+    },
+    {
+        "locality":"IIT Powai"
+    },
+    {
+        "locality":"JB Nagar"
+    },
+    {
+        "locality":"Jacob Circle"
+    },
+    {
+        "locality":"Jawhar"
+    },
+    {
+        "locality":"Jogeshwari East"
+    },
+    {
+        "locality":"Jogeshwari West"
+    },
+    {
+        "locality":"Juhu"
+    },
+    {
+        "locality":"Juhu Tara Road"
+    },
+    {
+        "locality":"Kalbadevi"
+    },
+    {
+        "locality":"Kalina"
+    },
+    {
+        "locality":"Kalyan"
+    },
+    {
+        "locality":"Kanakia Road"
+    },
+    {
+        "locality":"Kandivali East"
+    },
+    {
+        "locality":"Kandivali West"
+    },
+    {
+        "locality":"Kanjur Marg East"
+    },
+    {
+        "locality":"Kanjur Marg West"
+    },
+    {
+        "locality":"Kanti Park"
+    },
+    {
+        "locality":"Kemps Corner"
+    },
+    {
+        "locality":"Khan Abdul Gafar Road"
+    },
+    {
+        "locality":"Khar East"
+    },
+    {
+        "locality":"Khar West"
+    },
+    {
+        "locality":"Kharodi"
+    },
+    {
+        "locality":"Khetwadi"
+    },
+    {
+        "locality":"King Circle"
+    },
+    {
+        "locality":"Kurla East"
+    },
+    {
+        "locality":"Kurla West"
+    },
+    {
+        "locality":"LBS Marg"
+    },
+    {
+        "locality":"Lal Baug"
+    },
+    {
+        "locality":"Lamington Road"
+    },
+    {
+        "locality":"Link Road"
+    },
+    {
+        "locality":"Linking Road"
+    },
+    {
+        "locality":"Lokhandwala"
+    },
+    {
+        "locality":"Lover Parel"
+    },
+    {
+        "locality":"MHADA Colony"
+    },
+    {
+        "locality":"Madh"
+    },
+    {
+        "locality":"Madh Island"
+    },
+    {
+        "locality":"Mahalaxmi"
+    },
+    {
+        "locality":"Mahavir Nagar"
+    },
+    {
+        "locality":"Mahim"
+    },
+    {
+        "locality":"Mahul"
+    },
+    {
+        "locality":"Malabar Hill"
+    },
+    {
+        "locality":"Malad East"
+    },
+    {
+        "locality":"Malad West"
+    },
+    {
+        "locality":"Malvani"
+    },
+    {
+        "locality":"Mandapwshwar"
+    },
+    {
+        "locality":"Mandvi"
+    },
+    {
+        "locality":"Mankhurd"
+    },
+    {
+        "locality":"Manori"
+    },
+    {
+        "locality":"Marine Lines"
+    },
+    {
+        "locality":"Marol"
+    },
+    {
+        "locality":"Masjid Bunder"
+    },
+    {
+        "locality":"Matunga East"
+    },
+    {
+        "locality":"Matunga West"
+    },
+    {
+        "locality":"Mazgaon"
+    },
+    {
+        "locality":"Mira Road"
+    },
+    {
+        "locality":"Mulund Colony"
+    },
+    {
+        "locality":"Mulund East"
+    },
+    {
+        "locality":"Mulund West"
+    },
+    {
+        "locality":"Mumbai Central"
+    },
+    {
+        "locality":"Nagdevi"
+    },
+    {
+        "locality":"Nagpada"
+    },
+    {
+        "locality":"Nahur East"
+    },
+    {
+        "locality":"Nahur West"
+    },
+    {
+        "locality":"Narayan Patil Wadi"
+    },
+    {
+        "locality":"Narman Point"
+    },
+    {
+        "locality":"Navagaon"
+    },
+    {
+        "locality":"Navapada"
+    },
+    {
+        "locality":"Navi Mumabai"
+    },
+    {
+        "locality":"Naya Nagar"
+    },
+    {
+        "locality":"Nehru Nagar"
+    },
+    {
+        "locality":"Nehru Road"
+    },
+    {
+        "locality":"Old Navy Nagar"
+    },
+    {
+        "locality":"Opera House"
+    },
+    {
+        "locality":"Orlem Malad"
+    },
+    {
+        "locality":"Oshiwara"
+    },
+    {
+        "locality":"Pali Hill"
+    },
+    {
+        "locality":"Parel"
+    },
+    {
+        "locality":"Peddar Road"
+    },
+    {
+        "locality":"Poonam Nagar"
+    },
+    {
+        "locality":"Powai"
+    },
+    {
+        "locality":"Prabhadevi"
+    },
+    {
+        "locality":"Pydhonie"
+    },
+    {
+        "locality":"Ramnagar"
+    },
+    {
+        "locality":"Reay Road"
+    },
+    {
+        "locality":"Royal Palms"
+    },
+    {
+        "locality":"SV Road"
+    },
+    {
+        "locality":"SEEPZ"
+    },
+    {
+        "locality":"Sahar Road"
+    },
+    {
+        "locality":"Saki Naka"
+    },
+    {
+        "locality":"Samat Nagar"
+    },
+    {
+        "locality":"Santacruz East"
+    },
+    {
+        "locality":"Santacruz West"
+    },
+    {
+        "locality":"Saravali"
+    },
+    {
+        "locality":"Sarvodaya Nagar"
+    },
+    {
+        "locality":"Senapati Bapat Marg"
+    },
+    {
+        "locality":"Sewree"
+    },
+    {
+        "locality":"Shastri Nagar"
+    },
+    {
+        "locality":"Shivaji Nagar"
+    },
+    {
+        "locality":"Shivaji Park"
+    },
+    {
+        "locality":"Sion East"
+    },
+    {
+        "locality":"Sion West"
+    },
+    {
+        "locality":"Sir JJ Road"
+    },
+    {
+        "locality":"Tardeo"
+    },
+    {
+        "locality":"Thakurdwar"
+    },
+    {
+        "locality":"Thane"
+    },
+    {
+        "locality":"Tilak Nagar"
+    },
+    {
+        "locality":"Triveni Nagar"
+    },
+    {
+        "locality":"Trombay"
+    },
+    {
+        "locality":"Umerkhadi"
+    },
+    {
+        "locality":"Upper Parel"
+    },
+    {
+        "locality":"Upper Worli"
+    },
+    {
+        "locality":"Uttan"
+    },
+    {
+        "locality":"Vakola"
+    },
+    {
+        "locality":"Vasai"
+    },
+    {
+        "locality":"Veera Desai Road"
+    },
+    {
+        "locality":"Varsova"
+    },
+    {
+        "locality":"Vidya Nagari"
+    },
+    {
+        "locality":"Vidya Vihar"
+    },
+    {
+        "locality":"Vijay Nagar"
+    },
+    {
+        "locality":"Vikhroli East"
+    },
+    {
+        "locality":"Vikhroli West"
+    },
+    {
+        "locality":"Vile Parle East"
+    },
+    {
+        "locality":"Vile Parle West"
+    },
+    {
+        "locality":"Virar"
+    },
+    {
+        "locality":"Wadala East"
+    },
+    {
+        "locality":"Wadala West"
+    },
+    {
+        "locality":"Walkeshwar"
+    },
+    {
+        "locality":"Warden Road"
+    },
+    {
+        "locality":"Western Express Highway"
+    },
+    {
+        "locality":"Worli"
+    },
+    {
+        "locality":"Yari Road"
+    },
+    {
+        "locality":"Yogi Jawraj Nagar"
+    }
+]
